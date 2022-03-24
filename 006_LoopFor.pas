@@ -1,3 +1,4 @@
+//for <variable> := <start> to|downto <finish> do <operator>
 program loopfor;
 var
 	z,i: integer;
