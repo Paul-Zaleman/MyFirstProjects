@@ -1,3 +1,4 @@
+{nested loop for - for}
 program loopForFor;
 var
 	n,m: integer;
